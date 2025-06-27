@@ -1,19 +1,35 @@
-## ✅ Fix Summary
+# COSC Hackweek Countdown App 🕒
 
-- Resolved App Router and Pages Router conflict
-- Ensured clean rendering with `Countdown` and COSC info from `cosc.json`
-- No console warnings or runtime errors
-- Made countdown dynamic based on JSON date
-- Fully functional and responsive layout
+A simple Next.js app that shows a live countdown timer and displays COSC Hackweek info from a local JSON file.
 
-## Deployment Link
-```
-Deployment Link
-```
+---
+
+## ✅ What Was Fixed / Implemented
+
+- 🔧 Fixed routing conflict between App Router and Pages Router (`pages/index.js` used, `app/` removed)
+- 🕒 Built a working `Countdown` component that updates in real time
+- 📄 Fetched data from `public/cosc.json` and rendered it clearly on the page
+- 🧹 Resolved runtime errors and removed console warnings
+- 📱 Responsive layout for mobile and desktop
+- 🌐 Successfully deployed to Vercel
+
+---
+
+
+---
+
+## 🚀 Live Demo
+
+[View deployed app on Vercel](https://your-vercel-url.vercel.app)
+
+---
+
 
 ## 🛠 How to Run Locally
 
-1. Clone the repo
-2. Run `npm install`
-3. Run `npm run dev`
-4. Open [http://localhost:3000](http://localhost:3000)
+```bash
+git clone https://github.com/your-username/hackweek-countdown-fixed
+cd hackweek-countdown-fixed
+npm install
+npm run dev
+```
