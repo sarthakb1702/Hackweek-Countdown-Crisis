@@ -20,7 +20,7 @@ A simple Next.js app that shows a live countdown timer and displays COSC Hackwee
 
 ## 🚀 Live Demo
 
-[View deployed app on Vercel]([https://your-vercel-url.vercel.app](https://hackweek-countdo-git-04a57f-sarthak-bhandaris-projects-e20652a5.vercel.app/))
+[View deployed app on Vercel]([https://your-vercel-url.vercel.app](https://hackweek-countdo-git-04a57f-sarthak-bhandaris-projects-e20652a5.vercel.app/)
 
 ---
 
