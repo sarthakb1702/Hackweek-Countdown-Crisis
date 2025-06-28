@@ -23,7 +23,7 @@ export default function Home() {
 
       <section>
         <h2 style={{ fontSize: '1.5rem' }}>⏳ Countdown Until Hackweek Ends:</h2>
-       <Countdown endTime="2025-06-28T23:59:59" />
+       <Countdown endTime="2025-07-01T23:59:59" />
 
       </section>
 
